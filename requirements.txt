@@ -1,9 +1,12 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+altair
 ipython
 jupyter
+joblib
+matplotlib
+numpy
+pandas
+pytest
+scikit-learn
+seaborn
 streamlit
 xgboost

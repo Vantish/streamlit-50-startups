@@ -13,6 +13,7 @@ def _load_data(path: str) -> pd.DataFrame:
 def run_home():
     """홈 화면을 새롭게 디자인하여 사용자에게 데이터 요약과 사용법을 안내합니다."""
 
+
     st.markdown(
         """
         이 작은 데모 앱은 50개 스타트업 데이터를 기반으로 수익을 예측합니다.
